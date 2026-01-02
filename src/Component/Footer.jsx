@@ -309,13 +309,13 @@ const Footer = () => {
             <div className="container text-center">
               <div className="footer-copy">
                 <div className="copyright">
-                  © {year} All Rights Reserved By _
+                  © {year} All Rights Reserved By 
                   
                   <Link
-                    to="https://nigammishra.github.io/nigam-portfolio/"
+                    to="https://www.linkedin.com/in/ramya00/"
                     target="_blank"
                   >
-                     @nigammishra
+                     @ramyaranjan
                   </Link>
                 </div>
               </div>
